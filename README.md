@@ -19,20 +19,20 @@
 - Use nested dictionaries as the main data structure for storing contact information.
 - Each contact should have a unique identifier (e.g., a phone number or email address) as the outer dictionary key.
 - Store contact details within the inner dictionary, including:
-        Name
-        Phone number
-        Email address
-        Additional information (e.g., address, notes).
+        1. Name
+        2. Phone number
+        3. Email address
+        4. Additional information (e.g., address, notes).
 
 **3. Menu Actions:**
 - Implement the following actions in response to menu selections:
-        Adding a new contact.
-        Editing an existing contact's information (name, phone number, email, etc.).
-        Deleting a contact.
-        Searching for a contact and displaying their details.
-        Displaying a list of all contacts.
-        Exporting contacts to a text file in a structured format.
-        Importing contacts from a text file and adding them to the system. * BONUS
+        1. Adding a new contact.
+        2. Editing an existing contact's information (name, phone number, email, etc.).
+        3. Deleting a contact.
+        4. Searching for a contact and displaying their details.
+        5. Displaying a list of all contacts.
+        6. Exporting contacts to a text file in a structured format.
+        7. Importing contacts from a text file and adding them to the system. * BONUS
 
 **4. User Interaction:**
 - Utilize input() to enable users to select menu options and provide contact details.
